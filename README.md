@@ -1,5 +1,3 @@
-# Uriel Santana — Offensive Cyber Operations
-
 🛡️ Offensive Security | Payload Engineering | Red Team Automation  
 🐧 Linux Custom Kernel | Python Async | Polymorphic Exploits  
 🚀 MITRE ATT&CK Aligned | Advanced Recon & Exfiltration  
